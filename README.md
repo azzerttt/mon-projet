@@ -1,2 +1,2 @@
 # mon-projet
-pour les projets de prograllation systeme et reseau
+pour les projets de programmation systeme et reseau
